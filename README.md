@@ -11,14 +11,14 @@ After successful completion of this course students should understand why the OM
 ## Materials for Students
 * Presentation Materials
 	* PowerPoint
-	* [Example SQL](OMOP CDM Vocabulary Training.sql)
+	* [Example SQL](https://github.com/OHDSI/Tutorial-CDM/blob/master/OMOP%20CDM%20Vocabulary%20Training.sql)
 
 ## Required Materials
 A laptop that is able to access the Internet.
 
 ## Required Homework
 Pre-reads include the following patient's story:
-[Lauren's Story (Endometriosis UK)](https://www.endometriosis-uk.org/laurens-story)
+* [Lauren's Story (Endometriosis UK)](https://www.endometriosis-uk.org/laurens-story)
 
 While not required other pre-reads of interest:
 
@@ -54,4 +54,4 @@ This tutorial has been given and recorded previously if you would like to previe
 		* [Part 2](https://www.youtube.com/watch?v=P_9A7Jsnh68)
 		* [Part 3](https://www.youtube.com/watch?v=nxf0vxxWV30)
 	* OMOP Common Data Model
-		* [Part 1(https://www.youtube.com/watch?v=T03GC4IBrLo)
+		* [Part 1](https://www.youtube.com/watch?v=T03GC4IBrLo)
