@@ -8,25 +8,16 @@ The course will then move on to understanding the OMOP Vocabularies; it is impor
 
 After successful completion of this course students should understand why the OMOP Vocabulary is important to the OHDSI standardization process and conceptually understand how to navigate it. Additionally, students will understand the structure of the OMOP CDM and how one might conduct observational research using it. This course will not go into detail on how to perform a transformation into the CDM (commonly referred to the Extract, Transform, & Load (ETL) process) nor will it explore in detail OHDSI tools such as ATLAS.
 
-## Materials for Students
-* Presentation Materials
-	* PowerPoint
-	* [Example SQL](https://github.com/OHDSI/Tutorial-CDM/blob/master/OMOP%20CDM%20Vocabulary%20Training.sql)
-
-## Required Materials
-A laptop that is able to access the Internet.
-
-## Required Homework
-Pre-reads include the following patient's story:
+## Pre-Reads
 * [Lauren's Story (Endometriosis UK)](https://www.endometriosis-uk.org/laurens-story)
+* [Common Data Model Wiki](https://github.com/OHDSI/CommonDataModel/wiki) (OPTIONAL)
+* Reich C, Ryan PB, Stang PE, Rocca M. Evaluation of alternative standardized terminologies for medical conditions within a network of observational healthcare databases. J Biomed Inform. 2012 Aug;45(4):689-96. doi: 10.1016/j.jbi.2012.05.002. Epub 2012 Jun 7. PubMed PMID: [22683994](https://www.ncbi.nlm.nih.gov/pubmed/22683994). (OPTIONAL)
 
-While not required other pre-reads of interest:
-
-* [OMOP Common Data Model Wiki](https://github.com/OHDSI/CommonDataModel/wiki)
-* Reich C, Ryan PB, Stang PE, Rocca M. Evaluation of alternative standardized terminologies for medical conditions within a network of observational healthcare databases. J Biomed Inform. 2012 Aug;45(4):689-96. doi: 10.1016/j.jbi.2012.05.002. Epub 2012 Jun 7. PubMed PMID: [22683994](https://www.ncbi.nlm.nih.gov/pubmed/22683994).
+## Materials for Students
+* [PowerPoint](https://github.com/OHDSI/Tutorial-CDM/blob/master/materials/OHDSI%20Vocabulary%20CDM%20Tutorial.pptx)
+* [Example SQL](https://github.com/OHDSI/Tutorial-CDM/blob/master/materials/sql/OMOP%20CDM%20Vocabulary%20Training.sql)
 
 ## AWS Setup
-
 * [OHDSI-In-a-Box](https://github.com/OHDSI/OHDSI-in-a-Box)
 * OHDSI Tools Required
 	* Data
